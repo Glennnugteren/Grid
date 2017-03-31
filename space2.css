@@ -1,0 +1,105 @@
+		body {
+			background-image: url(bg.png);
+			font-family: sans-serif;
+		}
+		
+		#frame {
+			background-color: rgba(255,200,200,0.3);
+			margin: 0;
+			width: 1000px;
+			margin-left: 442px;
+			padding-left: 10px;
+			padding-right: 10px;
+			padding-bottom: 8px;
+			padding-top: 10px;
+		}
+		
+		header nav ul {
+			list-style-type: none;
+			background-color: rgba(255,255,200,0.3);
+
+		}
+		
+		#content {
+			display: flex;
+			flex-direction: row;
+		}
+		
+		nav li {
+			display: inline-block;
+
+		}
+		
+		nav li a {
+			text-decoration: none;
+			color: black;
+			font-weight: bold;
+		}
+		
+		main{
+			border: 1px black solid;
+			background-color: rgba(200,200,255,0.3);
+			width: 700px;
+			padding-top: 10px;
+		}
+		
+		aside{
+			border: 1px black solid;
+			background-color: rgba(200,255,200,0.3);
+			width: 300px;
+			height: 400px;
+		}
+		
+		body article {
+			background-color: rgba(200,200,200,0.6);
+		}
+		
+		header {
+		}
+		
+		footer {
+			background-color: rgba(255,255,200,0.3);
+		}
+		.article1 {
+			margin-left: 8px;
+			margin-bottom: 20px;
+			padding-bottom: 1px;
+		}
+		.article2 {
+			margin-left: 8px;
+			
+			height: 80px;
+		}
+		.article3 {
+			margin-left: 8px;
+		}
+		.lol2 {
+				padding-left: 445px;
+				padding-top: 3px;
+				letter-spacing: 1px;
+		}
+		ul {
+			padding-bottom: 10px;
+			margin-bottom: 20px;
+			padding-top: 10px;
+			padding-left: 0;
+			padding-left: 10px;
+		}
+		.hoi1{
+			padding-right: 18px;
+		}
+		.hoi2 {
+			padding-right: 18px;
+		}
+		.hoi3 {
+			padding-right: 18px;
+		}
+		.hoi4 {
+			padding-right: 18px;
+		}
+		.ho1 {
+			padding-bottom: 10px;
+		}
+		.bla {
+			margin-bottom: 0;
+		}
